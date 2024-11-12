@@ -4,3 +4,6 @@ Tela Inicial do Sistema Operacional Parte III
 Fundamentos de um computador
 Sistemas operacionais
 Gerenciamento de arquivos
+Fundamentos de um computador
+Sistemas operacionais
+Gerenciamento de arquivos
